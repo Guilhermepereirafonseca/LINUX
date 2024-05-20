@@ -27,7 +27,15 @@ _**Comandos do LINUX, aprendidos na aula GSO II com Professor Wellington**_
 ## COMANDOS DE ADMINISTRAÇÃO DE USUÁRIOS
 - ```adduser``` : Adiciona um usuário ou grupo no sistema. Por padrão quando um novo usuário é adicionado, é criado um grupo com o mesmo nome do usuário.
 - ```userdel``` : Remove usuários.
-  - ```userdel -r donald``` : Remove o usuário, inclusive seus arquivos e diretórios. 
+  - ```userdel -r donald``` : Remove o usuário, inclusive seus arquivos e diretórios.
+- ```groupadd``` : Adiciona um grupo ao sistema.
+- ```addgroup``` : Adiciona um usuário a um grupo.
 - ```whoami``` : Ver usuário atual.
 - ```login``` : Entra com outro usuário.
 - ```logout``` : Sai do usuário.
+
+## COMANDOS DE INSTALAÇÃO DE PROGRAMAS
+- ```apt-get update``` : Baixa a lista dos pacotes disponíveis.
+- ```apt-get upgrade``` :  Atualiza todos os pacotes do sistema.
+- ```apt-get install``` : Instala um programa.
+- ```apt-get remove``` : Desinstala um programa.
