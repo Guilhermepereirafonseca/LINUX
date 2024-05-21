@@ -1,6 +1,8 @@
 
 <img src="https://secure.webtoolhub.com/static/resources/icons/set2/acc5b045385d5.png" width="150px">
 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
 # LINUX
 _**Comandos do LINUX, aprendidos na aula GSO II com Professor Wellington**_
 
