@@ -43,6 +43,6 @@ _**Comandos do LINUX, aprendidos na aula GSO II com Professor Wellington**_
 - ```apt-get remove``` : Desinstala um programa.
 
 ## COMANDOS PARA COMPILAR ARQUIVOS DE PROGRAMAÇÃO
-Antes de tudo veja se seu sistema operacional possui o GCC (GNU Compiler Collection) uma coleção desenvolvida pelo projeto GNU, suportando várias linguagens de programação como C, C++, Objective-C, Fortran, Ada, e GO.
+Antes de tudo veja se seu sistema operacional possui o GCC (GNU Compiler Collection) uma coleção desenvolvida pelo projeto GNU, suportando várias linguagens de programação como C, C++, Objective-C, Fortran, Ada, e GO. <br>
 ⬇️ Para instalar faça esse comando:
 - ``sudo apt install gcc``
